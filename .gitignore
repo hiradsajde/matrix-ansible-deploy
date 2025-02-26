@@ -3,7 +3,6 @@
 !/inventory/host_vars/.gitkeep
 !/inventory/scripts
 =======
-/inventory
 >>>>>>> bf123e7ad518e4d1d5883858ed5bce749e351191
 /roles/**/files/scratchpad
 .DS_Store
